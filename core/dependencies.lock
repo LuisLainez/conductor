@@ -254,8 +254,8 @@
         "org.apache.logging.log4j:log4j-web": {
             "locked": "2.17.2"
         },
-        "org.codehaus.groovy:groovy-all": {
-            "locked": "2.5.22"
+        "org.apache.groovy:groovy-all": {
+            "locked": "4.0.15"
         },
         "org.glassfish.jaxb:jaxb-runtime": {
             "locked": "2.3.3"
@@ -396,8 +396,8 @@
             ],
             "locked": "2.17.2"
         },
-        "org.codehaus.groovy:groovy-all": {
-            "locked": "2.5.22"
+        "org.apache.groovy:groovy-all": {
+            "locked": "4.0.15"
         },
         "org.glassfish.jaxb:jaxb-runtime": {
             "locked": "2.3.3"
