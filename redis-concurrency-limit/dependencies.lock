@@ -231,8 +231,8 @@
         "org.apache.logging.log4j:log4j-web": {
             "locked": "2.17.2"
         },
-        "org.codehaus.groovy:groovy-all": {
-            "locked": "2.5.22"
+        "org.apache.groovy:groovy-all": {
+            "locked": "4.0.15"
         },
         "org.junit.vintage:junit-vintage-engine": {
             "locked": "5.8.2"
@@ -416,8 +416,8 @@
             ],
             "locked": "2.17.2"
         },
-        "org.codehaus.groovy:groovy-all": {
-            "locked": "2.5.22"
+        "org.apache.groovy:groovy-all": {
+            "locked": "4.0.15"
         },
         "org.junit.vintage:junit-vintage-engine": {
             "locked": "5.8.2"
